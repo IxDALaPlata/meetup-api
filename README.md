@@ -1,5 +1,7 @@
 # meetup-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/durancristhian/meetup-api.svg)](https://greenkeeper.io/)
+
 Microservicio que devuelve un JSON con los próximos eventos de los meetups indicados por configuración
 Usa `memory-cache` para storear los resultados durante un tiempo determinado
 

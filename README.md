@@ -1,8 +1,8 @@
-# meetup-api
+# ux-meetup-api
 
 Microservicio que devuelve un JSON con los próximos eventos de los meetups indicados por configuración
 
-[meetup-api](https://meetup-api.now.sh/)
+Este en un Fork del proyecto [meetup-api](https://github.com/meetupjs-ar/meetup-api) de la gente de ## MeetupJS
 
 ## Como funciona
 
